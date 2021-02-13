@@ -1,5 +1,9 @@
 # warsztaty-1-zad-1
 zgadywanie liczb
-komputer losuje liczbę z przedziału od 1 do 100
-użytkownik podaje z klawiatury liczbę z pzredziału 1 do 100
-jeśli liczba wylosowana przez komputer zgadza się z liczba podana przez użytkownika pojawia się napis 'You win'
+
+
+    Zadać pytanie: "Guess the number: " i pobrać liczbę z klawiatury.
+    Sprawdzić, czy wprowadzony napis, to rzeczywiście liczba i w razie błędu wyświetlić komunikat "It's not a number!", po czym wrócić do pkt. 1
+    Jeśli liczba podana przez użytkownika jest mniejsza niż wylosowana, wyświetlić komunikat "To small!", po czym wrócić do pkt. 1.
+    Jeśli liczba podana przez użytkownika jest większa niż wylosowana, wyświetlić komunikat "To big!", po czym wrócić do pkt. 1.
+    Jeśli liczba podana przez użytkownika jest równa wylosowanej, wyświetlić komunikat "You win!", po czym zakończyć działanie programu.
